@@ -1,0 +1,1 @@
+Achieve android remote connection PC, clear picture, less than 1 second delay control
